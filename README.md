@@ -1,7 +1,6 @@
 # news_app
 
-A new Flutter project.
-
+![44](https://user-images.githubusercontent.com/86397791/154573693-8bc7f021-0aa1-4a2e-94cd-3721e2f99624.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
